@@ -23,7 +23,7 @@
     "href": "#pricing"
   },
   "mainHero": {
-    "title": "Curso de Yoga com",
+    "title": "Aula de Yoga com",
     "subtitle": "Vida Torres",
     "description": "Nessa comunidade você terá acesso a aulas de Vinyasa Yoga ao vivo e gravadas, além de tutoriais e dicas para melhorar sua prática! As aulas são para todos os níveis; sempre dou opções para você escolher a intensidade que quer praticar. Lembre de respeitar os seus limites físicos e emocionais. Yoga não é performance nem competição. Seja paciente consigo e aproveite a caminhada!",
     "img": "/assets/images/vida-torres.jpg",
@@ -37,43 +37,43 @@
     }
   },
   "product": {
-    "title": "Como funciona o curso?",
+    "title": "Como funciona a comunidade?",
     "items": [
       {
-        "title": "Aulas exclusivas",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-        "img": "/assets/images/yoga2.png"
+        "title": "Praticando Yoga",
+        "description": "O yoga não precisa ser místico e inalcançável. Cada um pode se conectar com a pratica de maneiras diferentes, de acordo com a sua realidade. Busco inserir a filosofia do yoga no meu dia a dia, com o pé no chão, e lembrando sempre que sou humana e o processo de evolução não é linear. É nisso que acredito. E assim, entendendo as particularidades de cada ser, o yoga se torna ferramenta inclusiva de bem-estar.",
+        "img": "/assets/images/vida-crop.jpeg"
       },
       {
         "title": "Modalidades presencial e online",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
-        "img": "/assets/images/yoga1.png"
+        "description": "As aulas presenciais acontecem toda segunda e quarta às 19:30 e sexta às 17:30, no Espaço Vida, em Maceió. Já as aulas online são transmitidas pelo Google Meet, toda segunda às 07:30. Essas aulas serão gravadas e disponibilizadas para quem não conseguir assistir ao vivo. As duas modalidades contam com correções e ajustes pela instrutora. Além disso, tanto as aulas online como as presenciais possui materiais extras para te ajudar a evoluir na prática ;) ",
+        "img": "/assets/images/vida5.JPEG"
       }
     ]
   },
   "features": {
-    "title": "Por que fazer yoga?",
-    "subtitle": "Alguns dos benefícios da prática",
+    "title": "Benefícios da prática",
+    "subtitle": "Benefícios da prática",
     "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Software like Aldus PageMaker including versions of Lorem Ipsum.",
     "items": [
       {
-        "name": "Benefício 1",
+        "name": "Reduz os níveis de estresse, ansiedade e processos de dor",
         "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
         "icon": "/assets/images/yoga3.png"
       },
       {
-        "name": "Benefício 2",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "name": "Melhora a qualidade da respiração e do sono",
+        "description": "Melhora a qualidade da respiração e do sono",
         "icon": "/assets/images/yoga3.png"
       },
       {
-        "name": "Benefício 3",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "name": "Estimula o foco e a concentração",
+        "description": "Estimula o foco e a concentração",
         "icon": "/assets/images/yoga3.png"
       },
       {
-        "name": "Benefício 4",
-        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
+        "name": "Busca a autoperceção física, mental e espiritual.",
+        "description": "Busca a autoperceção física, mental e espiritual",
         "icon": "/assets/images/yoga3.png"
       }
     ]
@@ -82,7 +82,7 @@
     "title": "Planos",
     "items": [
       {
-        "name": "Mensal",
+        "name": "Mensal Online",
         "price": "R$ X",
         "priceDetails": "por mês",
         "features": [
@@ -93,19 +93,33 @@
         ]
       },
       {
-        "name": "Semestral",
+        "name": "Trimestral Online",
         "price": "R$ X",
         "priceDetails": "por mês",
-
         "features": [
-          "5 users",
-          "Priority Support",
-          "10 GB of storage",
+          "50 users",
+          "24/7 Support",
+          "100 GB of storage",
           "Phone and Email support"
-        ]
+        ],
+        "buttonText": "",
+        "link": "#"
       },
       {
-        "name": "Trimestral",
+        "name": "Mensal Presencial",
+        "price": "R$ X",
+        "priceDetails": "por mês",
+        "features": [
+          "50 users",
+          "24/7 Support",
+          "100 GB of storage",
+          "Phone and Email support"
+        ],
+        "buttonText": "",
+        "link": "#"
+      },
+      {
+        "name": "Trimestral Presencial",
         "price": "R$ X",
         "priceDetails": "por mês",
         "features": [

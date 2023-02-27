@@ -4,9 +4,13 @@
 
 
 :root {
-  --color-primary: #40e0d0;
-  --color-secondary: #20c6b6;
+  --color-primary: #314558;
+  --color-secondary: #b4bbc2;
   --color-tertiaty: #99a0a3;
+}
+
+body {
+color: #314558;
 }
 
 a { 
