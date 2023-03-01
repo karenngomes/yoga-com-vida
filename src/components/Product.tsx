@@ -10,8 +10,8 @@ const Product = () => {
   return (
     <section className={`bg-background py-8`} id="product">
       <div className={`container max-w-5xl mx-auto m-8`}>
-        <h1
-          className={`w-full my-2 text-5xl font-bold leading-tight text-center text-primary`}
+        <h2
+          className={`w-full my-2 text-4xl sm:text-5xl font-bold leading-tight text-center text-primary`}
         >
           {product.title.split(' ').map((word, index) => (
             <span
@@ -21,10 +21,10 @@ const Product = () => {
               {word}{' '}
             </span>
           ))}
-        </h1>
+        </h2>
         <Divider />
         <div className={`flex flex-wrap`}>
-          <div className={`w-5/6 sm:w-1/2 p-6 my-auto`}>
+          <div className={`w-6/6 sm:w-1/2 p-6 my-auto`}>
             <h3 className={`text-3xl  font-bold leading-none mb-3`}>
               {firstItem?.title}
             </h3>
@@ -51,7 +51,9 @@ const Product = () => {
               <h3 className={`text-3xl  font-bold leading-none mb-3`}>
                 {secondItem?.title}
               </h3>
-              <p className={`text-gray-600 mb-8`}>{secondItem?.description}</p>
+              <p className={`text-gray-600 sm:mb-8`}>
+                {secondItem?.description}
+              </p>
             </div>
           </div>
         </div>
