@@ -18,11 +18,26 @@ const App = () => {
       <Head>
         <title>Yoga com Vida Torres</title>
         <meta charSet="UTF-8" />
-        <meta name="description" content="Aulas de Yoga com Vida Torres" />
+        <meta
+          name="description"
+          content="Aulas de Yoga com Vida Torres"
+          key="desc"
+        />
         <meta name="keywords" content="Yoga, Saúde" />
         <meta name="author" content="Karen Gomes" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta name="robots" content="index, follow" />
+        <meta property="og:type" content="website" />
+        <meta property="og:title" content="Yoga com Vida Torres" />
+        <meta
+          property="og:description"
+          content="Aulas de Yoga com Vida Torres"
+        />
+        <meta property="og:url" content="https://yogacomvida.vercel.app/" />
+        <meta
+          property="og:image"
+          content="https://yogacomvida.vercel.app/assets/images/blue-logo.png"
+        />
         <link
           rel="icon"
           type="image/x-icon"
