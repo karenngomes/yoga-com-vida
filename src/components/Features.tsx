@@ -22,11 +22,11 @@ const Features = () => {
           </p> */}
         </div>
 
-        <div className="mt-10">
+        <div className="mt-12">
           <dl className="space-y-10 md:space-y-0 md:grid md:grid-cols-2 md:gap-x-8 md:gap-y-10">
             {featuresList.map((feature) => (
-              <div key={feature.name} className="relative">
-                <dt>
+              <div key={feature.name} className="relative min-h-[48px]">
+                <dt className="flex items-center">
                   <div
                     className={`absolute flex items-center my-auto justify-center h-12 w-12 rounded-md bg-background text-tertiary border-primary border-4`}
                   >

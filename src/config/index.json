@@ -1,7 +1,7 @@
 {
   "company": {
     "name": "Yoga com Vida Torres",
-    "logo": "/assets/images/logo-green.png"
+    "logo": "/assets/images/blue-logo.png"
   },
   "navigation": [
     {
@@ -83,18 +83,19 @@
     "items": [
       {
         "name": "Mensal Online",
-        "price": "R$ X",
+        "price": "R$ 135,00",
         "priceDetails": "por mês",
         "features": [
           "1 user",
           "Basic Support",
           "1 GB of storage",
           "Email support"
-        ]
+        ],
+        "link": "https://pay.hotmart.com/T79515727M?off=tag5lhzd"
       },
       {
         "name": "Trimestral Online",
-        "price": "R$ X",
+        "price": "R$ 115,00",
         "priceDetails": "por mês",
         "features": [
           "50 users",
@@ -103,11 +104,11 @@
           "Phone and Email support"
         ],
         "buttonText": "",
-        "link": "#"
+        "link": "https://pay.hotmart.com/T79515727M?off=na7q0s12"
       },
       {
         "name": "Mensal Presencial",
-        "price": "R$ X",
+        "price": "R$ 160,00",
         "priceDetails": "por mês",
         "features": [
           "50 users",
@@ -116,11 +117,11 @@
           "Phone and Email support"
         ],
         "buttonText": "",
-        "link": "#"
+        "link": "https://pay.hotmart.com/T79515727M?off=9w56u4o4"
       },
       {
         "name": "Trimestral Presencial",
-        "price": "R$ X",
+        "price": "R$ 145,00",
         "priceDetails": "por mês",
         "features": [
           "50 users",
@@ -129,7 +130,7 @@
           "Phone and Email support"
         ],
         "buttonText": "",
-        "link": "#"
+        "link": "https://pay.hotmart.com/T79515727M?off=zrex0aek"
       }
     ]
   },

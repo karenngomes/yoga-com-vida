@@ -14,12 +14,13 @@ color: #314558;
 }
 
 a { 
-  @apply text-green-700;
+  color: #314558;
   cursor: pointer;
 }
 
 a:hover {
-  @apply border-b-2 border-green-700;
+  @apply border-b-2;
+  border-color: #314558;
 }
 
 

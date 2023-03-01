@@ -17,11 +17,16 @@ const App = () => {
     <React.Fragment>
       <Head>
         <title>Yoga com Vida Torres</title>
-        <meta charSet="utf-8" />
+        <meta charSet="UTF-8" />
+        <meta name="description" content="Aulas de Yoga com Vida Torres" />
+        <meta name="keywords" content="Yoga, Saúde" />
+        <meta name="author" content="Karen Gomes" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta name="robots" content="index, follow" />
         <link
           rel="icon"
           type="image/x-icon"
-          href="/assets/images/logo-green.png"
+          href="/assets/images/blue-logo.png"
         ></link>
       </Head>
       <div className={`bg-background grid gap-y-16 overflow-hidden`}>
