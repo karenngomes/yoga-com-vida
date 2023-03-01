@@ -33,7 +33,7 @@
     },
     "secondaryAction": {
       "text": "Contacte-nos",
-      "href": "mailto:vidatorres.yoga@gmail.com?subject=Eu gostaria de saber mais sobre o curso de Yoga!"
+      "href": "mailto:vidatorres.yoga@gmail.com?subject=Aulas de Yoga&body=Eu gostaria de saber mais sobre as aulas de Yoga!"
     }
   },
   "product": {
@@ -72,8 +72,8 @@
         "icon": "/assets/images/yoga3.png"
       },
       {
-        "name": "Busca a autoperceção física, mental e espiritual.",
-        "description": "Busca a autoperceção física, mental e espiritual",
+        "name": "Busca a autopercepção física, mental e espiritual.",
+        "description": "Busca a autopercepção física, mental e espiritual",
         "icon": "/assets/images/yoga3.png"
       }
     ]
